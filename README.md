@@ -1,64 +1,64 @@
-[README.md](https://github.com/user-attachments/files/21198128/README.md)[Uploadin
-# 📊 Sales Performance Dashboard – the company
+[README.md](https://github.com/user-attachments/files/21198142/README.md)[Uploading RE
+# Sales Performance Dashboard – Power BI Project
 
-This Power BI project provides a comprehensive and interactive sales reporting system for **the company**, a leading electronics retail chain in Italy. The dashboard is designed to help decision-makers analyze sales performance across stores, products, and cities, while also integrating return data for a more accurate view of net sales.
+This Power BI project provides a comprehensive and interactive sales reporting system for the company, a leading electronics retail chain. The dashboard is designed to help decision-makers analyze sales performance across stores, products, and cities, while also integrating return data for a more accurate view of net sales.
 
-## 🏢 About the Company
+## About the Company
 
-**the company** operates multiple retail locations across Italy and processes large volumes of sales data. To gain better insights and optimize operations, the company invested in a centralized business intelligence solution using Power BI.
+The company operates multiple retail locations across the country and processes large volumes of sales data. To gain better insights and optimize operations, the company invested in a centralized business intelligence solution using Power BI.
 
-## 🎯 Project Objectives
+## Project Objectives
 
-- Visualize **monthly sales**, including discounts, quantities sold, and prices.
-- Analyze **sales distribution by city**.
-- Monitor **performance by product**.
-- Evaluate the **sales output of each retail store**.
-- Calculate and display **net sales by integrating return data**.
+- Visualize monthly sales, including discounts, quantities sold, and prices
+- Analyze sales distribution by city
+- Monitor performance by product
+- Evaluate the sales output of each retail store
+- Calculate and display net sales by integrating return data
 
-## 📁 Data Sources
+## Data Sources
 
-- **Sales Data (2014)**: Monthly sales data files from multiple stores.
-- **Store & Product Info**: Additional data on stores, products, and Italian provinces.
-- All data is loaded from shared folders and merged using Power BI's **Query Merge** functionality.
+- Sales data (2014): Monthly sales data files from multiple stores
+- Store and product information: Additional data on stores, products, and provinces
+- All data is loaded from shared folders and merged using Power BI's Query Merge functionality
 
-## 📊 Report Pages
+## Report Pages
 
-### 1. **Monthly Sales Overview**
-Shows total sales by month, taking into account discounts, unit sales, and prices.
+1. **Monthly Sales Overview**  
+   Shows total sales by month, accounting for discounts, unit sales, and prices.
 
-### 2. **Units Sold by City**
-Displays the number of units sold in each city where the company operates.
+2. **Units Sold by City**  
+   Displays the number of units sold in each city where the company operates.
 
-### 3. **Product Details**
-Provides performance metrics and sales details for individual products.
+3. **Product Details**  
+   Provides performance metrics and sales details for individual products.
 
-### 4. **Store Insights**
-Combines store metadata and performance metrics to assess each retail outlet.
+4. **Store Insights**  
+   Combines store metadata and performance metrics to evaluate each retail outlet.
 
-### 5. **Returns Management**
-A dedicated page compares gross and net sales (excluding returns) for January and February, offering a more precise performance analysis.
+5. **Returns Management**  
+   A dedicated page compares gross and net sales (excluding returns) for January and February, offering more precise performance insights.
 
-## 🚀 Key Benefits
+## Key Benefits
 
-- **Data-Driven Decisions**: Managers can quickly identify top-performing products, cities, and promotional campaigns.
-- **Promotion Optimization**: Pinpoint which discounts had the highest impact on sales.
-- **Real-Time Store Monitoring**: Keep track of store performance, inventory turnover, and sales trends.
-- **Accurate Reporting**: Integrating return data ensures net sales reflect actual performance.
-- **User-Friendly Navigation**: Includes buttons and bookmarks for easy page-to-page interaction, even for non-technical users.
+- Data-driven decision-making
+- Improved targeting of promotional campaigns
+- Real-time store monitoring
+- More accurate reporting with return data included
+- Clear navigation and usability for all user levels
 
-## 🧰 Tools Used
+## Tools Used
 
 - Power BI Desktop
-- Excel (.xlsx) files for source data
-- Query Editor for data transformation and relationships
+- Excel (.xlsx) as data sources
+- Query Editor for data transformation
 
-## 📌 How to Use
+## How to Use
 
-1. Open the `.pbix` file in Power BI Desktop.
-2. Refresh the data connections if needed.
-3. Navigate through report pages using interactive buttons and bookmarks.
+1. Open the `.pbix` file in Power BI Desktop
+2. Refresh the data connections if needed
+3. Use bookmarks and navigation buttons to explore the report
 
-## ✅ Outcome
+## Outcome
 
-This Power BI solution empowers the company with a centralized, dynamic, and accurate reporting tool to support strategic planning, resource allocation, and operational optimization at every retail location.
-g README.md…]()
+This reporting solution provides the company with an effective tool for monitoring and improving sales performance at every retail location, while enabling more strategic planning and data-based decisions.
+ADME.md…]()
